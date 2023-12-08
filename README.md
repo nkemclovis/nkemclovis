@@ -13,11 +13,12 @@
 - [Use Linux commands to manage file permissions](https://github.com/nkemclovis/LinuxFilePermission)
 - [Apply filters to queries](https://github.com/nkemclovis/SQL)
 
+  <h2>👨‍💻 Front-End Development Projects:</h2>
 
-<h2>👨‍💻 Front-End Dev. Projects:</h2>
-- JavasScript Amazon Website Project ](https://github.com/nkemclovis/SQL)
+- [Conduct security audit](https://github.com/nkemclovis/SecurityAudit)
 
-  
+
+
   
   
 
