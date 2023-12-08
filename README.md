@@ -15,7 +15,7 @@
 
   <h2>👨‍💻 Front-End Development Projects:</h2>
 
-- [JavaScript Amazon Website Project](https://github.com/javascript-amazon-project)
+- [JavaScript Amazon Website Project](https://github.com/nkemclovis/javascript-amazon-project)
 
 
 
