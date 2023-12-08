@@ -32,7 +32,19 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 A vulnerability assessment of the situation can help you communicate the potential risks with decision makers at the company. You must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.</p>
 - [Vulnerability assessment report](https://docs.google.com/document/d/1H_AOntX8ZapRWE2v2bk68laPe_K92ax21jaP5tYUNzQ/edit?usp=sharing&resourcekey=0-yTH4bs0HT4Dp9gMttVjunQ)
- 
+
+ <h1></h1>
+
+- <b><h2>Document an incident with an incident handler's journal</b></h2>
+<p>Scenario:</p>
+<p> A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
+
+Additionally, employees also reported that a ransom note was displayed on their computers. The ransom note stated that all the company's files were encrypted by an organized group of unethical hackers who are known to target organizations in healthcare and transportation industries. In exchange for restoring access to the encrypted files, the ransom note demanded a large sum of money in exchange for the decryption key. 
+
+The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
+
+Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.</p>
+- [Incident handler's journal entry](https://docs.google.com/document/d/1nBOlYqNOKs5ZkMCedFhlwy2Y2znfY0I99gTr3wBV6K4/edit?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
