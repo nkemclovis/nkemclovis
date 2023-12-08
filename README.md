@@ -15,6 +15,7 @@
 
 
 <h2>👨‍💻 Front-End Dev. Projects:</h2>
+- JavasScript Amazon Website Project ](https://github.com/nkemclovis/SQL)
 
   
   
