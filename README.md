@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Incident handler's journal entry](https://github.com/nkemclovis/ConductSecurityAudit) 
+- [Conduct a security audit](https://github.com/nkemclovis/ConductSecurityAudit) 
 <p>Scenario:</p>
 <p> Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
