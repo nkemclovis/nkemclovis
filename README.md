@@ -4,18 +4,13 @@
 
 - [Conduct security audit](https://github.com/nkemclovis/SecurityAudit)
 - [NIST Cybersecurity Framework to respond to a security incident](https://github.com/nkemclovis/NISTFramework)
+- [Analyze a vulnerable system for a small business](https://github.com/nkemclovis/AnalyseVulnerability)
+  
 
 
 
 
-- <b><h2>Analyze a vulnerable system for a small business</b></h2>
-<p>Scenario:</p>
-<p> You are a newly hired cybersecurity analyst for an e-commerce company. The company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
 
-A vulnerability assessment of the situation can help you communicate the potential risks with decision makers at the company. You must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.</p>
-- [Vulnerability assessment report](https://docs.google.com/document/d/1H_AOntX8ZapRWE2v2bk68laPe_K92ax21jaP5tYUNzQ/edit?usp=sharing&resourcekey=0-yTH4bs0HT4Dp9gMttVjunQ)
-
- <h1></h1>
 
 - <b><h2>Document an incident with an incident handler's journal</b></h2>
 <p>Scenario:</p>
