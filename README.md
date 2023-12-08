@@ -11,6 +11,8 @@
 - [Applying OS hardening techniques](https://github.com/nkemclovis/OShardening)
 - [Analysis of network hardening](https://github.com/nkemclovis/Networkhardening)
 - [Use Linux commands to manage file permissions](https://github.com/nkemclovis/LinuxFilePermission)
+- [Apply filters to queries](https://github.com/nkemclovis/SQL)
+  
 
   
   
