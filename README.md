@@ -1,5 +1,5 @@
-<h1>Hi, I'm Clovis! <br/><a href="https://github.com/nkemclovis">Teacher</a> - <a href="https://www.linkedin.com/nkemclovis/">Cybersecurity Professional</a>-<a href="https://www.youtube.com/c/joshmadakor">Front-End Developer</a></h1>
-
+<h1>Hi, I'm Clovis! <br/><br><a href="https://github.com/nkemclovis">Teacher</a> - <a href="https://www.linkedin.com/nkemclovis/">Cybersecurity Professional</a>-<a href="https://www.youtube.com/c/joshmadakor">Front-End Developer</a></h1>
+<br>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Conduct security audit](https://github.com/nkemclovis/SecurityAudit)
