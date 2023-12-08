@@ -15,7 +15,7 @@
 
   <h2>👨‍💻 Front-End Development Projects:</h2>
 
-- [Conduct security audit](https://github.com/nkemclovis/SecurityAudit)
+- [JavaScript Amazon Website Project](https://github.com/javascript-amazon-project)
 
 
 
