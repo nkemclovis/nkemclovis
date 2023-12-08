@@ -7,7 +7,7 @@
 - [Analyze a vulnerable system for a small business](https://github.com/nkemclovis/AnalyseVulnerability)
 - [Document an incident with an incident handler's journal](https://github.com/nkemclovis/IncidentResponseJournal)
 - [Analyze Network layer communication](https://github.com/nkemclovis/NetworkAnalysis)
-- [Analyze Network layer communication]( https://github.com/nkemclovis/AnalyzeNetworkAttack)
+- [Analyze network attacks]( https://github.com/nkemclovis/AnalyzeNetworkAttack)
   
   
   
