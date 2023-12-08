@@ -24,7 +24,14 @@ The manager of the IT department has decided that an internal IT audit needs to 
 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.</p>
 - [NIST CSF analysis report](https://docs.google.com/document/d/1nDA5SxmvT1oydsxGhdpXp_zsDHN_g2IvSIWFNcbBGfI/edit?usp=sharing)
+<h1></h1>
 
+- <b><h2>Analyze a vulnerable system for a small business</b></h2>
+<p>Scenario:</p>
+<p> You are a newly hired cybersecurity analyst for an e-commerce company. The company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
+
+A vulnerability assessment of the situation can help you communicate the potential risks with decision makers at the company. You must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.</p>
+- [Vulnerability assessment report](https://docs.google.com/document/d/1H_AOntX8ZapRWE2v2bk68laPe_K92ax21jaP5tYUNzQ/edit?usp=sharing&resourcekey=0-yTH4bs0HT4Dp9gMttVjunQ)
  
 
 
