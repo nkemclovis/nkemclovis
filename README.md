@@ -15,7 +15,7 @@
 - [Active directory project on VM](https://github.com/nkemclovis/ActiveDirectory)
   
 
-  <h2>👨‍💻 Front-End Development Projects:</h2>
+<h2>👨‍💻 Front-End Development Projects:</h2>
 
 - [JavaScript Amazon Website Project](https://github.com/nkemclovis/javascript-amazon-project)
 
