@@ -17,10 +17,10 @@
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
-- [JavaScript Amazon Website Project](https://eyongaiden.github.io/amz_project/amazon.html)
-- [HTML & CSS YouTube Project](https://eyongaiden.github.io/amz_project/amazon.html)
+- [JavaScript Amazon Website Project](https://eyongaiden.github.io/amz_project/)
+- [HTML & CSS YouTube Project](https://eyongaiden.github.io/static)
 - [React Calculator App Project](https://eyongaiden.github.io/calculator/)
-- [Restaurant Web Project ](https://eyongaiden.github.io/restau_project/index.html)
+- [Restaurant Web Project ](https://eyongaiden.github.io/restau_project/)
 
 
 
