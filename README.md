@@ -18,6 +18,9 @@
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
 - [JavaScript Amazon Website Project](https://eyongaiden.github.io/amz_project/amazon.html)
+- [HTML & CSS YouTube Project](https://eyongaiden.github.io/amz_project/amazon.html)
+- [React Calculator App Project](https://eyongaiden.github.io/calculator/)
+- [Restaurant Web Project ](https://eyongaiden.github.io/restau_project/index.html)
 
 
 
